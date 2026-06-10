@@ -17,6 +17,7 @@ Kousis & Tjortjis (2024) proposes a structured framework that integrates topic m
 
 BERTopic modeling was chosen as this model is able to idetify patterns and themes across documents, making it perfect for exploring a large corpus. 
 
+![alt text](BertTopicScores.png "BERTopic model output")
 
 #### Conclusion:
 In these findings, it is demonstrated that Tate’s content is not just entertainment, but a means for the dissemination of Tate’s ideological ideas in relation to masculinity. While this study is limited by its focus solely on the Emergency Meeting videos and the technological constraints of the AI transcription model, it still contributes to the broader conversation about masculinity in digital spaces and the online influence of content creators on youth identity formation. Future research should expand on Tate’s content, incorporating multiple mode analysis, analyzing his other content, or comparing Tate’s narrative to other prominent figures in the manosphere to gain a more comprehensive understanding of the totality of Tate’s content and its presentation of masculinity. This study’s critical engagement with rhetoric and methods offers a more nuanced discourse on Andrew Tate and the formation of masculinity in digital spaces, calling for continued research across media studies, gender theory, and youth sociology.
