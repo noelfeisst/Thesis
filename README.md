@@ -12,6 +12,7 @@ This study adopts a mixed-methods framework combining quantitative topic modelin
 
 Kousis & Tjortjis (2024) proposes a structured framework that integrates topic modeling with Braun and Clarke’s (2006) guide for thematic analysis. Below is a chart to explain the workflow: 
 
+![alt text](Totalworkflow.png "Workflow Example")
 
 
 BERTopic modeling was chosen as this model is able to idetify patterns and themes across documents, making it perfect for exploring a large corpus. 
